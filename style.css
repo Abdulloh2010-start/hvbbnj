@@ -1,0 +1,270 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400..700;1,400..700&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Quantico:ital,wght@0,400;0,700;1,400;1,700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    font-family: "Lato", sans-serif;
+}
+
+.h{
+    margin: 0 auto;
+    width: 1920px;
+    height: 85px;
+    background-color: rgba(255, 255, 255, 1);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.n{
+    padding: 15px 10px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 300px;
+}
+
+.btn{
+    width: 183px;
+    height: 51px;
+    border-radius: 5px;
+    background-color: rgba(1, 153, 109, 1);
+    border: 1px solid rgba(1, 153, 109, 1);
+    color: white;
+}
+
+.n ul{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+
+.s1{
+    margin: 0 auto;
+    width: 1920px;
+    height: 700px;
+    background-image: url(./radu-florin-CwTBt6jyagQ-unsplash\ 1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.f{
+    margin: 0 auto;
+    color: white;
+    font-size: 25px;
+    font-weight: 600;
+    width: 1920px;
+    height: 654px;
+    background-color: rgba(36, 88, 82, 1);
+}
+
+.n2{
+    width: 100%;
+    height: 500px;
+    padding: 150px 200px;
+    flex-direction: column;
+}
+
+.l1{
+    font-size: 40px;
+    font-weight: 900;
+}
+
+.s1 h2{
+    width: 500px;
+    font-size: 65px;
+    font-weight: 700;
+    color: rgba(1, 153, 109, 1);
+}
+
+.s1 p{
+    width: 343px;
+    color: rgba(72, 72, 72, 1);
+}
+
+.btn2{
+    background-color: rgba(1, 153, 109, 1);
+    border: 1px solid rgba(1, 153, 109, 1);
+    width: 227px;
+    height: 65px;
+    border-radius: 5px;
+    color: white;
+}
+
+.d1{
+    padding: 170px 170px;
+}
+
+.s4{
+    margin: 0 auto;
+    width: 1920px;
+    height: 700px;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    align-items: center;
+    background-color: rgb(241, 245, 249);
+} 
+
+.d2 p{
+    width: 343px;
+    color: rgba(72, 72, 72, 1);
+}
+
+.img{
+    width: 600px;
+    height: 600px;
+}
+
+.d2 h2{
+    width: 500px;
+    color: rgba(1, 153, 109, 1);
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.d2 h6{
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.s3{
+    width: 1920px;
+    height: 922px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(36, 88, 82, 1);
+    color: white;
+    gap: 50px;
+}
+
+.d3 h2{
+    font-size: 50px;
+    font-weight: 700;
+    width: 500px;
+}
+
+.d3 p{
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.s2{
+    width: 1920px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.d4 h2{
+    color: rgba(1, 153, 109, 1);
+    font-size: 50px;
+    font-weight: 700;
+    width: 500px;
+}
+
+.d4 h6{
+    font-size: 24px;
+    font-weight: 600;
+    color: rgba(66, 66, 66, 1);
+}
+
+.s2 p{
+    width: 520px;
+}
+
+.s5{
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    width: 1920px;
+    height: 1200px;
+    gap: 50px;
+}
+
+.card1 p{
+    width: 300px;
+}
+
+.card2{
+    position: relative;
+    top: 200px;
+    left: 0;
+}
+
+.card2 p{
+    width: 330px;
+}
+
+.card3 p{
+    width: 325px;
+}
+
+.card1 h3{
+    color: rgba(0, 0, 0, 1);
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.card2 h3{
+    color: rgba(0, 0, 0, 1);
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.card3 h3{
+    color: rgba(0, 0, 0, 1);
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.card1 p{
+    color: rgba(66, 66, 66, 1);
+}
+
+.card2 p{
+    color: rgba(66, 66, 66, 1);
+}
+
+.card3 p{
+    color: rgba(66, 66, 66, 1);
+}
+
+.card1 h2{
+    position: relative;
+    z-index: -1;
+    left: 10px;
+    top: 60px;
+    color: rgba(1, 153, 109, 0.2) ;
+    font-size: 150px;
+    font-weight: 400;
+}
+
+.card2 h2{
+    position: relative;
+    z-index: -1;
+    left: 10px;
+    top: 60px;
+    color: rgba(1, 153, 109, 0.2) ;
+    font-size: 150px;
+    font-weight: 400;
+}
+
+.card3 h2{
+    position: relative;
+    z-index: -1;
+    left: 10px;
+    top: 60px;
+    color: rgba(1, 153, 109, 0.2) ;
+    font-size: 150px;
+    font-weight: 400;
+}
